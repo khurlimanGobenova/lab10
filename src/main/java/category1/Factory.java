@@ -1,4 +1,4 @@
-package com.example.demo;
+package category1;
 
 public class Factory {
     public static Person defaultPerson() {

@@ -1,4 +1,4 @@
-package com.example.demo;
+package category1;
 
 public class Student extends Person {
     private String studentId;

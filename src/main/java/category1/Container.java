@@ -1,4 +1,5 @@
-package com.example.demo;
+package category1;
+
 public class Container<T> {
     private T value;
 
@@ -9,7 +10,6 @@ public class Container<T> {
     public T getValue() {
         return value;
     }
-
     public void setValue(T value) {
         this.value = value;
     }
